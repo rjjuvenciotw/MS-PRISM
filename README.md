@@ -1,2 +1,15 @@
-# pycript
-Chat de envio de mensagens criptografadas entre dois meios.
+O Prism é um aplicativo de envio e recebimento de mensagens\n"
+        "desenvolvido para proporcionar uma comunicação rápida,\n"
+        "segura e confiável entre usuários. Projetado para ser intuitivo,\n"
+        "o Prism oferece uma interface simples, com recursos que permitem\n"
+        "a leitura e o gerenciamento de mensagens diretamente na plataforma.\n"
+        "Inclui a possibilidade de ler, ignorar ou responder rapidamente\n"
+        "as comunicações recebidas.\n\n"
+        
+        "   Licenciamento de Software:\n"
+        "   O Prism é distribuído como software livre e de código aberto,\n"
+        "sob a licença MIT, permitindo que qualquer pessoa use, modifique\n"
+        "e distribua o código-fonte para quaisquer fins, seja pessoal ou\n"
+        "comercial. Essa licença garante que o Prism pode ser aprimorado\n"
+        "pela comunidade e adaptado para diversas necessidades, enquanto\n"
+        "mantém seu compromisso com a acessibilidade e a segurança."
