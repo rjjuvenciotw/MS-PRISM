@@ -1,4 +1,4 @@
-O Prism é um aplicativo de envio e recebimento de mensagens\n"
+O Prism é um aplicativo de envio e recebimento de mensagens
 desenvolvido para proporcionar uma comunicação rápida,
 segura e confiável entre usuários. Projetado para ser intuitivo,
 o Prism oferece uma interface simples, com recursos que permitem
